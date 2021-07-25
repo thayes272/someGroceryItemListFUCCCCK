@@ -1,0 +1,16 @@
+C:\Users\tyler\source\repos\shoppingListThing\bin\Debug\net5.0\shoppingListThing.exe
+C:\Users\tyler\source\repos\shoppingListThing\bin\Debug\net5.0\shoppingListThing.deps.json
+C:\Users\tyler\source\repos\shoppingListThing\bin\Debug\net5.0\shoppingListThing.runtimeconfig.json
+C:\Users\tyler\source\repos\shoppingListThing\bin\Debug\net5.0\shoppingListThing.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\shoppingListThing\bin\Debug\net5.0\shoppingListThing.dll
+C:\Users\tyler\source\repos\shoppingListThing\bin\Debug\net5.0\ref\shoppingListThing.dll
+C:\Users\tyler\source\repos\shoppingListThing\bin\Debug\net5.0\shoppingListThing.pdb
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\shoppingListThing.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\shoppingListThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\shoppingListThing.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\shoppingListThing.AssemblyInfo.cs
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\shoppingListThing.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\shoppingListThing.dll
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\ref\shoppingListThing.dll
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\shoppingListThing.pdb
+C:\Users\tyler\source\repos\shoppingListThing\obj\Debug\net5.0\shoppingListThing.genruntimeconfig.cache
